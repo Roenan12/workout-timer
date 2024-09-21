@@ -52,3 +52,6 @@ This project was primarily developed to understand and apply the following React
 1. Open the app in your browser. Navigate to `localhost:3000`.
 2. Set the desired workout type, adjust number of sets, exercise speed, and break length.
 3. Start the timer and follow your workout routine.
+
+## Acknowledgements
+This app was developed as part of the [Udemy course](https://www.udemy.com/course/the-ultimate-react-course/) by Jonas Schmedtmann. Special thanks to Jonas for being an excellent instructor throughout the course.
