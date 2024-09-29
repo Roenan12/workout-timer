@@ -16,7 +16,7 @@ Workout Timer is a simple application built with React. It allows the user to se
 - **Play, Pause, Stop Functionality**: Control the timer with these functionalities.
 - **Alarm Sound**: An alarm sound plays when the timer reaches zero.
   
-## Learning Objectives
+## React Concepts Learned
 
 This project was primarily developed to understand and apply the following React concepts:
 
