@@ -9,11 +9,13 @@ Workout Timer is a simple application built with React. It allows the user to se
 - **Exercise Speed Control**: Adjust how fast each exercise should be performed.
 - **Break Lengths**: Set custom break durations between exercises.
 - **Sound Notifications**: Audible sound when the duration state changes and timer finish.
-- **Play, Pause, Stop Functionality**: Control the timer with these functionalities.
 - **Increment and Decrement**: Adjust the time duration manually.
-- **Alarm Sound**: An alarm sound plays when the timer reaches zero.
 - **Performance Optimization**: Utilizes `useEffect` for state synchronization, `memo` for component memoization, and `useMemo` for optimizing constant arrays with reactive values.
 
+## Additional Features
+- **Play, Pause, Stop Functionality**: Control the timer with these functionalities.
+- **Alarm Sound**: An alarm sound plays when the timer reaches zero.
+  
 ## Learning Objectives
 
 This project was primarily developed to understand and apply the following React concepts:
