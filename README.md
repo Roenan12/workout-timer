@@ -29,7 +29,7 @@ This project was primarily developed to understand and apply the following React
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/workout-timer.git
+   git clone https://github.com/Roenan12/workout-timer.git
 
    ```
 2. Navigate to the project directory:
